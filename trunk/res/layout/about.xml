@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:background="#A4DCD1">
+
+
+
+
+<ScrollView 
+android:id="@+id/scrllvwNo1" 
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content">	
+<LinearLayout 
+android:orientation="vertical" 
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content">  
+
+<TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" 
+android:text="==About==
+\nWelcome to Boulder Buddies!
+\nThank you for downloading us :D!!
+\nTeam YouGoFirst
+\nSpencer Lewson, Alex Miller, Cale Glisson, Ebele Okonkwo, Ashkay Rangnekar
+\n
+\nVision and Scope:
+\n    This application enables the users to have the timeless entertainment that only a pet rock can provide, in fun and safe mobile environment.  Users will be able to select from variety of eyes, hats, mouths, and other props to design a custom pet rock.  They will then be able to interact with the rock, allowing the rock to laugh and enjoy itself along with the user. 
+\n    This application is intended to be used by anyone who wants to interact with a pet rock and pass time.  It will be appropriate for all ages.
+\n    The application will not be able to interact with other people's rocks via the internet and you will not be able to draw your own accessories.  Additionally, the users will be restricted to predetermined interactions.
+\n
+\nFeature List:
+\n1. Design your own pet rock.  Choose from accessories including:
+\n    -Eyes
+\n    -Hats
+\n    -Mouths
+\n    -Props
+\n    -Backgrounds
+\n2. Save your pet rock for future fun:
+\n    -Save multiple rocks
+\n    -Edit them after they have been created
+\n3. Interact with the rock:
+\n    -Tickle (laughs)
+\n    -Poke its eye (cries)
+\n    -Shake the phone (screams)
+\n    -Slide it from side to side
+\n    -Bore it (yawns)
+\n4. Secret Features
+\n    -Unlock accessories
+" android:background="#A4DCD1" android:textColor="#000000"></TextView>
+ 
+</LinearLayout> 
+</ScrollView> 
+</LinearLayout>
