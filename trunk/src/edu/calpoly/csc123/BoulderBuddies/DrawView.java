@@ -14,7 +14,6 @@ import android.view.View.OnTouchListener;
 import android.widget.Button;
 public class DrawView extends View implements OnTouchListener 
 {
-	int testchange;
 	Bitmap bitmapOrg;
 	Bitmap designBG;
 	Bitmap purpleRock;
